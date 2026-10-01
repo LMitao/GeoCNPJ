@@ -1,0 +1,6 @@
+{
+  "name": "GeoCNPJ - Consulta e Rastreio de CNPJ por GPS e CNAE",
+  "description": "Sistema corporativo de consulta e prospecção de CNPJ por geolocalização GPS com filtro por CNAE, mapa interativo Google Maps e rastreio de buscas.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
